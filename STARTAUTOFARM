@@ -21,4 +21,4 @@ getgenv().AutoBalloon = {
         ["Min"] = 1e6; 1000000
     }
 }
-loadstring(game:HttpGet('https://hugegames.space/9f221d2fe792a6caa000c3ed.lua'))()
+loadstring(game:HttpGet('https://pastebin.com/mqPz1Xz1'))()
